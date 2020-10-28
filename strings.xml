@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="q1">Mercury is the closest planet to Earth.</string>
+    <string name="q2">The Sun orbits around the Earth.</string>
+    <string name="q3">Earth is the 6th planet from the Sun.</string>
+    <string name="q4">Earth resides in the Milky Way.</string>
+    <string name="q5">Saturn is the 3rd planet from the Sun.</string>
+</resources>
